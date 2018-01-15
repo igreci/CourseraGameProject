@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/graphics/burger.png</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/graphics/explosion.png</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/graphics/frenchfries.png</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/graphics/teddybear.png</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/graphics/teddybearprojectile.png</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/audio/BurgerDamage.wav</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/audio/BurgerDeath.wav</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/audio/BurgerShot.wav</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/audio/Explosion.wav</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/audio/TeddyBounce.wav</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/audio/TeddyShot.wav</File>
+    <File>C:/Users/DeGRof/Documents/Visual Studio 2015/Projects/Corsera/CsharpGames/GameProject/GameProjectContent/fonts/Arial20.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
